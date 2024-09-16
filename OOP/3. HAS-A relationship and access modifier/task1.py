@@ -23,6 +23,9 @@ class Department:
             if flag==True:
                 self.student.append(i)
                 print(f"Welcome to CSE department, {i.name}")        
+                # fgdhjkldsidd4
+                
+                # djj8wduw
     def findStudent(self,id):
         flag=False
         for i in self.student:
